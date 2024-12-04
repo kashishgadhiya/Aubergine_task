@@ -36,6 +36,7 @@ const App = () => {
     : universities;
 
   return (
+    //tailwind css is not working in my project so i used simple css
     <div style={{ padding: "20px" }}>
       <h1>University App</h1>
       <input
